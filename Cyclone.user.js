@@ -2184,7 +2184,7 @@ function containerStop() {
         const helpContent = document.createElement('div');
         helpContent.id = 'help-content';
         helpContent.style.display = 'none';
-        helpContent.innerHTML = 'I hope you have fun with this Cheat, but please utilize it exclusively on the test server. If used on the main server, your account may face a ban. Join our <a href="https://discord.gg/xnPWajQH" target="_blank">Discord</a> server for additional information and top-notch hacks! Also, feel free to join the <a href="https://discord.gg/8TSPw9akzp" target="_blank">Shizoval Discord</a> server  for more hacks , if you have the MalcomX script, avoid using it as its not safe. MalcomX can log your IP and execute code in your browser, so stay safe 😉 and say MalcomX Whore :)';
+        helpContent.innerHTML = 'I hope you have fun with this Cheat, but please utilize it exclusively on the test server. If used on the main server, your account may face a ban. Join our <a href="https://discord.gg/xnPWajQH" target="_blank">Discord</a> server for additional information and top-notch hacks! Also, feel free to join the <a href="https://discord.gg/" target="_blank">Shizoval Discord</a> server  for more hacks , if you have the MalcomX script, avoid using it as its not safe. MalcomX can log your IP and execute code in your browser, so stay safe 😉 and say MalcomX Whore :)';
 
         container.appendChild(helpContent);
 
