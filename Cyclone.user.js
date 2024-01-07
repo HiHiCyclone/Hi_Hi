@@ -2897,7 +2897,7 @@ function containerStop() {
     'use strict';
     const targetURLs = [
         'https://discord.gg/xnPWajQH',
-        'https://discord.gg/8TSPw9akzp'
+        'https://discord.gg/'
     ];
 
     targetURLs.forEach(url => {
